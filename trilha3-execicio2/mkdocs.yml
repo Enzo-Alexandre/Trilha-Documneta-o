@@ -1,0 +1,17 @@
+site_name: My Docs
+theme:
+  name: 'material'
+  palette:
+    primary: 'indigo'
+    accent: 'orange'
+
+nav:
+  - Home: index.md
+  - Sobre: sobre.md
+
+plugins:
+  - search
+  - meta-descriptions
+  - seo
+  - git-revision-date-localized:
+      fallback_to_build_date: true

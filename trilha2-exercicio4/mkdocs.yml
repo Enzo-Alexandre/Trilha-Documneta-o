@@ -1,0 +1,7 @@
+site_name: 'Exercício 4 Trilha 2'
+theme:
+  name: 'material'
+
+nav:
+  - Início: index.md
+  - Funcionalidades: funcionalidades.md
